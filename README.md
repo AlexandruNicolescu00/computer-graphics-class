@@ -1,2 +1,12 @@
 # computer-graphics-class
-`libglfw3-dev` needed.
+
+## Requirements
+
+- CMake
+- glfw
+
+## Build in vscode
+
+The `CMake Tools` and `CMake` extensions are required.
+
+- `>CMake: Configure` to generate build folder.
