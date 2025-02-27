@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/alex/Documents/computer-graphics/build",
+  "command": "/usr/bin/c++  -I/home/alex/Documents/computer-graphics/dependencies -g -o CMakeFiles/my_opengl_project.dir/src/es01.cpp.o -c /home/alex/Documents/computer-graphics/src/es01.cpp",
+  "file": "/home/alex/Documents/computer-graphics/src/es01.cpp",
+  "output": "CMakeFiles/my_opengl_project.dir/src/es01.cpp.o"
+},
+{
+  "directory": "/home/alex/Documents/computer-graphics/build",
+  "command": "/usr/bin/cc  -I/home/alex/Documents/computer-graphics/dependencies -g -o CMakeFiles/my_opengl_project.dir/src/glad.c.o -c /home/alex/Documents/computer-graphics/src/glad.c",
+  "file": "/home/alex/Documents/computer-graphics/src/glad.c",
+  "output": "CMakeFiles/my_opengl_project.dir/src/glad.c.o"
+}
+]

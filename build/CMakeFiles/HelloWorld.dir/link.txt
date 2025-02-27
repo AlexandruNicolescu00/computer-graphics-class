@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/HelloWorld.dir/link.d CMakeFiles/HelloWorld.dir/src/es01.cpp.o -o HelloWorld  -lglfw /usr/lib/libGLX.so /usr/lib/libOpenGL.so

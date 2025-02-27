@@ -1,0 +1,3 @@
+/home/alex/Documents/computer-graphics/build/CMakeFiles/my_opengl_project.dir
+/home/alex/Documents/computer-graphics/build/CMakeFiles/edit_cache.dir
+/home/alex/Documents/computer-graphics/build/CMakeFiles/rebuild_cache.dir
